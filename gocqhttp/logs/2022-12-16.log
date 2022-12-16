@@ -1,0 +1,19 @@
+[2022-12-16 02:29:59] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-12-16 02:32:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connect: operation timed out 
+[2022-12-16 02:32:20] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connect: operation timed out 
+[2022-12-16 02:33:23] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-12-16 02:35:47] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-12-16 02:35:47] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-12-16 02:35:47] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-12-16 02:35:47] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-12-16 02:38:30] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-12-16 02:38:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-16 02:40:10] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2022-12-16 02:40:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2022-12-16 02:41:19] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2022-12-16 02:41:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2022-12-16 02:44:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2022-12-16 02:44:04] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2022-12-16 02:46:17] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.20.10.6:59206->42.187.183.165:80: read: can't assign requested address 
+[2022-12-16 02:47:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1000 (normal) 
+[2022-12-16 02:47:44] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
