@@ -23,7 +23,8 @@ driver.register_adapter(ONEBOT_V11Adapter)
 nonebot.load_builtin_plugins("echo")
 nonebot.load_plugin('nonebot_plugin_cartoon')
 # nonebot.load_plugin('nonebot_plugin_multi_chatgpt')
-nonebot.load_plugin('nonebot_plugin_chatgpt')
+# nonebot.load_plugin('nonebot_plugin_chatgpt')
+nonebot.load_plugin('nonebot_plugin_kawaii_robot')
 
 # Please DO NOT modify this file unless you know what you are doing!
 # As an alternative, you should use command `nb` or modify `pyproject.toml` to load plugins
