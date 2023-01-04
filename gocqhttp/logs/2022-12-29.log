@@ -1,0 +1,2 @@
+[2022-12-29 19:58:56] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:63028->107.155.14.171:10001: read: connection reset by peer 
+[2022-12-29 22:40:18] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:50228->43.135.106.179:8080: read: operation timed out 

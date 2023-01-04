@@ -1,0 +1,379 @@
+[2022-12-19 03:44:44] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.0.0.66:49511->43.154.240.13:8080: read: operation timed out 
+[2022-12-19 06:38:22] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.0.0.66:49649->183.47.98.90:443: read: operation timed out 
+[2022-12-19 09:16:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.0.0.66:49706->60.28.172.69:14000: read: can't assign requested address 
+[2022-12-19 09:16:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.224.104:443: connect: network is unreachable 
+[2022-12-19 09:16:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.224.104:443: connect: network is unreachable 
+[2022-12-19 09:16:50] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-12-19 09:16:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-12-19 09:16:56] [WARNING]: 尝试重连... 
+[2022-12-19 09:16:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 09:16:56] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 09:16:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:16:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:16:57] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:16:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2022-12-19 09:17:00] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-19 09:17:00] [WARNING]: 快速重连失败: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-19 09:17:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.98.105:443: connect: network is unreachable 
+[2022-12-19 09:17:01] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.98.105:443: connect: network is unreachable 
+[2022-12-19 09:17:01] [WARNING]: 将在 3 秒后尝试重连. 重连次数：4/0 
+[2022-12-19 09:17:04] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.28.172.69:14000: connect: network is unreachable 
+[2022-12-19 09:17:04] [WARNING]: 快速重连失败: dial tcp error: dial tcp 60.28.172.69:14000: connect: network is unreachable 
+[2022-12-19 09:17:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:05] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.248.73:443: connect: network is unreachable 
+[2022-12-19 09:17:05] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.248.73:443: connect: network is unreachable 
+[2022-12-19 09:17:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：5/0 
+[2022-12-19 09:17:08] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2022-12-19 09:17:08] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2022-12-19 09:17:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:17:09] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:17:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：6/0 
+[2022-12-19 09:17:12] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:12] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.191:8080: connect: network is unreachable 
+[2022-12-19 09:17:12] [WARNING]: 快速重连失败: dial tcp error: dial tcp 43.154.240.191:8080: connect: network is unreachable 
+[2022-12-19 09:17:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.98.90:443: connect: network is unreachable 
+[2022-12-19 09:17:13] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.98.90:443: connect: network is unreachable 
+[2022-12-19 09:17:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：7/0 
+[2022-12-19 09:17:16] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:16] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.232:14000: connect: network is unreachable 
+[2022-12-19 09:17:16] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.232:14000: connect: network is unreachable 
+[2022-12-19 09:17:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:17] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.201.31:443: connect: network is unreachable 
+[2022-12-19 09:17:17] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.201.31:443: connect: network is unreachable 
+[2022-12-19 09:17:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：8/0 
+[2022-12-19 09:17:20] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 09:17:20] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 09:17:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:21] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:17:21] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 09:17:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：9/0 
+[2022-12-19 09:17:24] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:24] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-19 09:17:24] [WARNING]: 快速重连失败: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-19 09:17:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 09:17:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.102.145:443: connect: network is unreachable 
+[2022-12-19 09:17:25] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.102.145:443: connect: network is unreachable 
+[2022-12-19 09:17:25] [WARNING]: 将在 3 秒后尝试重连. 重连次数：10/0 
+[2022-12-19 09:17:28] [WARNING]: 尝试重连... 
+[2022-12-19 09:17:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.178:14000: connect: network is unreachable 
+[2022-12-19 09:17:28] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.178:14000: connect: network is unreachable 
+[2022-12-19 09:17:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 11:17:26] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.213.147:443: connect: network is unreachable 
+[2022-12-19 11:17:26] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.213.147:443: connect: network is unreachable 
+[2022-12-19 11:17:26] [WARNING]: 将在 3 秒后尝试重连. 重连次数：11/0 
+[2022-12-19 11:17:29] [WARNING]: 尝试重连... 
+[2022-12-19 11:17:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 11:17:29] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-19 11:17:29] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 11:17:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 11:17:30] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 11:17:30] [WARNING]: 将在 3 秒后尝试重连. 重连次数：12/0 
+[2022-12-19 11:17:33] [WARNING]: 尝试重连... 
+[2022-12-19 11:17:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.21:8080: connect: network is unreachable 
+[2022-12-19 11:17:33] [WARNING]: 快速重连失败: dial tcp error: dial tcp 43.154.240.21:8080: connect: network is unreachable 
+[2022-12-19 11:17:33] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 11:17:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.99.24:443: connect: network is unreachable 
+[2022-12-19 11:17:34] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 183.47.99.24:443: connect: network is unreachable 
+[2022-12-19 11:17:34] [WARNING]: 将在 3 秒后尝试重连. 重连次数：13/0 
+[2022-12-19 11:17:37] [WARNING]: 尝试重连... 
+[2022-12-19 11:17:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.232:14000: connect: network is unreachable 
+[2022-12-19 11:17:37] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.232:14000: connect: network is unreachable 
+[2022-12-19 11:17:37] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 11:17:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.245.173:443: connect: network is unreachable 
+[2022-12-19 11:17:38] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.245.173:443: connect: network is unreachable 
+[2022-12-19 11:17:38] [WARNING]: 将在 3 秒后尝试重连. 重连次数：14/0 
+[2022-12-19 12:17:28] [WARNING]: 尝试重连... 
+[2022-12-19 12:17:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.229.216:14000: connect: network is unreachable 
+[2022-12-19 12:17:29] [WARNING]: 快速重连失败: dial tcp error: dial tcp 116.130.229.216:14000: connect: network is unreachable 
+[2022-12-19 12:17:29] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 12:17:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 109.244.152.174:8080: connect: network is unreachable 
+[2022-12-19 12:17:30] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 109.244.152.174:8080: connect: network is unreachable 
+[2022-12-19 12:17:30] [WARNING]: 将在 3 秒后尝试重连. 重连次数：15/0 
+[2022-12-19 12:17:33] [WARNING]: 尝试重连... 
+[2022-12-19 12:17:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.222.112.229:8080: connect: network is unreachable 
+[2022-12-19 12:17:33] [WARNING]: 快速重连失败: dial tcp error: dial tcp 114.222.112.229:8080: connect: network is unreachable 
+[2022-12-19 12:17:33] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 12:17:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.207.149:443: connect: network is unreachable 
+[2022-12-19 12:17:34] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 36.155.207.149:443: connect: network is unreachable 
+[2022-12-19 12:17:34] [WARNING]: 将在 3 秒后尝试重连. 重连次数：16/0 
+[2022-12-19 12:17:37] [WARNING]: 尝试重连... 
+[2022-12-19 12:17:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2022-12-19 12:17:37] [WARNING]: 快速重连失败: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2022-12-19 12:17:37] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 12:17:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 12:17:38] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-19 12:17:38] [WARNING]: 将在 3 秒后尝试重连. 重连次数：17/0 
+[2022-12-19 14:17:39] [WARNING]: 尝试重连... 
+[2022-12-19 14:17:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2022-12-19 14:17:39] [WARNING]: 快速重连失败: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2022-12-19 14:17:39] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 14:17:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 119.147.190.155:443: connect: network is unreachable 
+[2022-12-19 14:17:40] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 119.147.190.155:443: connect: network is unreachable 
+[2022-12-19 14:17:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：18/0 
+[2022-12-19 14:17:43] [WARNING]: 尝试重连... 
+[2022-12-19 14:17:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.178:14000: connect: network is unreachable 
+[2022-12-19 14:17:43] [WARNING]: 快速重连失败: dial tcp error: dial tcp 125.39.196.178:14000: connect: network is unreachable 
+[2022-12-19 14:17:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 14:17:44] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 14:17:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：19/0 
+[2022-12-19 14:17:47] [WARNING]: 尝试重连... 
+[2022-12-19 14:17:47] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 14:17:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 14:17:48] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 14:17:48] [WARNING]: 将在 3 秒后尝试重连. 重连次数：20/0 
+[2022-12-19 16:17:51] [WARNING]: 尝试重连... 
+[2022-12-19 16:17:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 16:17:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 16:17:52] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 16:17:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：21/0 
+[2022-12-19 16:17:55] [WARNING]: 尝试重连... 
+[2022-12-19 16:17:55] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 16:17:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 16:17:56] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 16:17:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：22/0 
+[2022-12-19 16:17:59] [WARNING]: 尝试重连... 
+[2022-12-19 16:17:59] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 16:17:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 16:18:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 16:18:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：23/0 
+[2022-12-19 17:23:44] [WARNING]: 尝试重连... 
+[2022-12-19 17:23:44] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:23:44] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:23:45] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:23:45] [WARNING]: 将在 3 秒后尝试重连. 重连次数：24/0 
+[2022-12-19 17:23:48] [WARNING]: 尝试重连... 
+[2022-12-19 17:23:48] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:23:48] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:23:49] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:23:49] [WARNING]: 将在 3 秒后尝试重连. 重连次数：25/0 
+[2022-12-19 17:23:52] [WARNING]: 尝试重连... 
+[2022-12-19 17:23:52] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:23:52] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:23:53] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:23:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：26/0 
+[2022-12-19 17:23:56] [WARNING]: 尝试重连... 
+[2022-12-19 17:23:56] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:23:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:23:57] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:23:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：27/0 
+[2022-12-19 17:24:00] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:00] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:01] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:01] [WARNING]: 将在 3 秒后尝试重连. 重连次数：28/0 
+[2022-12-19 17:24:04] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:04] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:05] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：29/0 
+[2022-12-19 17:24:08] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:08] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：30/0 
+[2022-12-19 17:24:12] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:12] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：31/0 
+[2022-12-19 17:24:16] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:16] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：32/0 
+[2022-12-19 17:24:20] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:20] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:21] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：33/0 
+[2022-12-19 17:24:24] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:24] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:25] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:25] [WARNING]: 将在 3 秒后尝试重连. 重连次数：34/0 
+[2022-12-19 17:24:28] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:28] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:29] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:29] [WARNING]: 将在 3 秒后尝试重连. 重连次数：35/0 
+[2022-12-19 17:24:32] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:32] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:32] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:33] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:33] [WARNING]: 将在 3 秒后尝试重连. 重连次数：36/0 
+[2022-12-19 17:24:36] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:36] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:36] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:37] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：37/0 
+[2022-12-19 17:24:40] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:40] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:40] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:41] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:41] [WARNING]: 将在 3 秒后尝试重连. 重连次数：38/0 
+[2022-12-19 17:24:44] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:44] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:44] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:45] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:45] [WARNING]: 将在 3 秒后尝试重连. 重连次数：39/0 
+[2022-12-19 17:24:48] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:48] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:48] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:49] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:49] [WARNING]: 将在 3 秒后尝试重连. 重连次数：40/0 
+[2022-12-19 17:24:52] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:52] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:52] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:53] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：41/0 
+[2022-12-19 17:24:56] [WARNING]: 尝试重连... 
+[2022-12-19 17:24:56] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:24:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:24:57] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:24:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：42/0 
+[2022-12-19 17:25:00] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:00] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:01] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:01] [WARNING]: 将在 3 秒后尝试重连. 重连次数：43/0 
+[2022-12-19 17:25:04] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:04] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:05] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：44/0 
+[2022-12-19 17:25:08] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:08] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：45/0 
+[2022-12-19 17:25:12] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:12] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：46/0 
+[2022-12-19 17:25:16] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:16] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：47/0 
+[2022-12-19 17:25:20] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:20] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:21] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：48/0 
+[2022-12-19 17:25:24] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:24] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:25] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:25] [WARNING]: 将在 3 秒后尝试重连. 重连次数：49/0 
+[2022-12-19 17:25:28] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:28] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:29] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:29] [WARNING]: 将在 3 秒后尝试重连. 重连次数：50/0 
+[2022-12-19 17:25:32] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:32] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:32] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:33] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:33] [WARNING]: 将在 3 秒后尝试重连. 重连次数：51/0 
+[2022-12-19 17:25:36] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:36] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:36] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:37] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：52/0 
+[2022-12-19 17:25:40] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:40] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:40] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:41] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:41] [WARNING]: 将在 3 秒后尝试重连. 重连次数：53/0 
+[2022-12-19 17:25:44] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:44] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:44] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:45] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:45] [WARNING]: 将在 3 秒后尝试重连. 重连次数：54/0 
+[2022-12-19 17:25:48] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:48] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:48] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:49] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:49] [WARNING]: 将在 3 秒后尝试重连. 重连次数：55/0 
+[2022-12-19 17:25:52] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:52] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:52] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:53] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：56/0 
+[2022-12-19 17:25:56] [WARNING]: 尝试重连... 
+[2022-12-19 17:25:56] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:25:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:25:57] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:25:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：57/0 
+[2022-12-19 17:26:00] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:00] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:01] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:01] [WARNING]: 将在 3 秒后尝试重连. 重连次数：58/0 
+[2022-12-19 17:26:04] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:04] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:05] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：59/0 
+[2022-12-19 17:26:08] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:08] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：60/0 
+[2022-12-19 17:26:12] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:12] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：61/0 
+[2022-12-19 17:26:16] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:16] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：62/0 
+[2022-12-19 17:26:20] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:20] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:21] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：63/0 
+[2022-12-19 17:26:24] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:24] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:25] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:25] [WARNING]: 将在 3 秒后尝试重连. 重连次数：64/0 
+[2022-12-19 17:26:28] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:28] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:28] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:29] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:29] [WARNING]: 将在 3 秒后尝试重连. 重连次数：65/0 
+[2022-12-19 17:26:32] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:32] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:32] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:33] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:33] [WARNING]: 将在 3 秒后尝试重连. 重连次数：66/0 
+[2022-12-19 17:26:36] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:36] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:36] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:37] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2022-12-19 17:26:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：67/0 
+[2022-12-19 17:26:40] [WARNING]: 尝试重连... 
+[2022-12-19 17:26:41] [WARNING]: 快速重连失败: All servers are unreachable 
+[2022-12-19 17:26:41] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-19 17:26:42] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-12-19 17:26:42] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-12-19 17:26:42] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-12-19 17:26:42] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-12-19 17:26:46] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-19 17:26:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:62599->127.0.0.1:8765: use of closed network connection 
+[2022-12-19 17:26:52] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=3AKTcaua&style=simple&aid=16&uin=1732437804&sid=6532478304918769490&cap_cd=4v3KrSa2BgisaNLk6uprCu8AknCAOFU4RqagtALAZD_HNRvU5OJ7SA**&clientype=1&apptype=2 
+[2022-12-19 17:26:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2022-12-19 17:27:13] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-12-19 18:27:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-19 19:23:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.100.0.247:50472->116.130.229.178:14000: read: operation timed out 

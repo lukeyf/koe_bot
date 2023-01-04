@@ -1,0 +1,40 @@
+[2022-12-31 10:26:40] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:51243->117.185.246.215:443: read: can't assign requested address 
+[2022-12-31 10:26:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-31 10:26:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-31 10:26:40] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-12-31 10:26:43] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-12-31 10:26:46] [WARNING]: 尝试重连... 
+[2022-12-31 10:26:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-31 10:26:46] [WARNING]: 快速重连失败: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-31 10:26:46] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-31 10:26:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-31 10:26:47] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2022-12-31 10:26:47] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2022-12-31 10:26:50] [WARNING]: 尝试重连... 
+[2022-12-31 10:26:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.98.77:443: connect: network is unreachable 
+[2022-12-31 10:26:50] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.98.77:443: connect: network is unreachable 
+[2022-12-31 10:26:50] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-31 10:26:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 116.130.224.254:14000: connect: network is unreachable 
+[2022-12-31 10:26:51] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 116.130.224.254:14000: connect: network is unreachable 
+[2022-12-31 10:26:51] [WARNING]: 将在 3 秒后尝试重连. 重连次数：4/0 
+[2022-12-31 10:26:54] [WARNING]: 尝试重连... 
+[2022-12-31 10:26:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 117.185.246.215:443: connect: network is unreachable 
+[2022-12-31 10:26:54] [WARNING]: 快速重连失败: dial tcp error: dial tcp 117.185.246.215:443: connect: network is unreachable 
+[2022-12-31 10:26:54] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-31 10:26:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-31 10:26:55] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2022-12-31 10:26:55] [WARNING]: 将在 3 秒后尝试重连. 重连次数：5/0 
+[2022-12-31 10:26:58] [WARNING]: 尝试重连... 
+[2022-12-31 10:26:58] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-31 10:26:58] [WARNING]: 快速重连失败: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2022-12-31 10:26:58] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-31 18:25:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.135.106.179:8080: connect: network is unreachable 
+[2022-12-31 18:25:08] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 43.135.106.179:8080: connect: network is unreachable 
+[2022-12-31 18:25:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：6/0 
+[2022-12-31 18:25:11] [WARNING]: 尝试重连... 
+[2022-12-31 18:25:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 119.147.190.20:443: connect: network is unreachable 
+[2022-12-31 18:25:11] [WARNING]: 快速重连失败: dial tcp error: dial tcp 119.147.190.20:443: connect: network is unreachable 
+[2022-12-31 18:25:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2022-12-31 18:25:12] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 123.125.0.194:14000: connect: network is unreachable 
+[2022-12-31 18:25:12] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 123.125.0.194:14000: connect: network is unreachable 
+[2022-12-31 18:25:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：7/0 

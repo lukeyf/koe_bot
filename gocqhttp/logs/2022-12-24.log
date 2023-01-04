@@ -1,0 +1,34 @@
+[2022-12-24 00:36:56] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-12-24 00:39:08] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.100.0.247:53973->43.154.240.7:8080: read: can't assign requested address 
+[2022-12-24 00:44:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 00:44:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50480->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 00:18:00] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:60443->116.130.224.14:14000: read: connection reset by peer 
+[2022-12-24 01:44:29] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:62828->101.91.40.83:8080: read: operation timed out 
+[2022-12-24 03:52:06] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:59134->43.135.106.161:8080: read: operation timed out 
+[2022-12-24 05:45:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:59257->183.47.102.218:443: read: operation timed out 
+[2022-12-24 08:46:29] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:59353->111.206.99.88:14000: read: operation timed out 
+[2022-12-24 11:43:32] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:59449->36.155.206.174:443: read: operation timed out 
+[2022-12-24 11:43:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: connection refused 
+[2022-12-24 11:43:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: connection refused 
+[2022-12-24 11:43:32] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-12-24 11:43:35] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-12-24 11:43:38] [WARNING]: 尝试重连... 
+[2022-12-24 11:43:39] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-24 13:17:15] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:59563->107.155.14.171:10001: read: connection reset by peer 
+[2022-12-24 14:43:34] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 14:43:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60680->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 14:43:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-24 15:24:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:24:09] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59903->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 15:24:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-24 15:26:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:26:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60082->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 15:29:49] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:29:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60147->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 15:33:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:33:49] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60588->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 15:34:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:34:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61078->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 15:36:11] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-12-24 15:36:16] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61098->127.0.0.1:8765: use of closed network connection 
+[2022-12-24 21:27:40] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.0.30:60073->125.39.196.158:14000: read: operation timed out 

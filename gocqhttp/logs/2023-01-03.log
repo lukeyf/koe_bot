@@ -1,0 +1,449 @@
+[2023-01-03 14:17:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-03 14:17:29] [WARNING]: 恢复会话失败: token failed , 尝试使用正常流程登录. 
+[2023-01-03 14:17:31] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:17:31] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:17:31] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:17:31] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:17:41] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=f96kRMT9&style=simple&aid=16&uin=1732437804&sid=6042516269812722043&cap_cd=8cyabYn9QI0rTj0s1VDlSg7MPbwk3MhhJ1LJGXQj7eFAo-ecO9FBCQ**&clientype=1&apptype=2 
+[2023-01-03 14:19:42] [WARNING]: 验证超时 
+[2023-01-03 14:22:56] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:22:56] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:22:56] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:22:56] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:23:06] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=DIQuAN5R&style=simple&aid=16&uin=1732437804&sid=2734844371843459776&cap_cd=pGDTlvER2HeOV38GLns_N3cDn7JWevazPHHlBmh5JIUJI_HD7tkAhA**&clientype=1&apptype=2 
+[2023-01-03 14:24:33] [WARNING]: 登录失败: 当前网络不稳定，登录失败。推荐使用常用设备或通过手机号登录。 
+[2023-01-03 14:24:50] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:24:50] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:24:50] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:24:50] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:26:27] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:26:27] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:26:27] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:26:27] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:27:50] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:27:50] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:27:50] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:27:50] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:28:35] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-03 14:28:35] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-03 14:28:35] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-03 14:28:35] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-03 14:29:45] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-03 14:57:29] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-03 14:57:36] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58796->127.0.0.1:8765: use of closed network connection 
+[2023-01-03 15:02:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-03 15:02:21] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59777->127.0.0.1:8765: use of closed network connection 
+[2023-01-03 15:11:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-03 15:11:26] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:59943->127.0.0.1:8765: use of closed network connection 
+[2023-01-03 16:16:38] [ERROR]: Protocol -> unexpected disconnect: read tcp 128.189.242.219:58788->43.154.240.13:8080: read: can't assign requested address 
+[2023-01-03 16:18:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 206.87.99.0:61375->107.155.14.171:10001: read: can't assign requested address 
+[2023-01-03 16:18:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2023-01-03 16:18:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2023-01-03 16:18:37] [WARNING]: Bot已离线: connection dropped by server. 
+[2023-01-03 16:18:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-01-03 16:18:43] [WARNING]: 尝试重连... 
+[2023-01-03 16:18:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.101.173:443: connect: network is unreachable 
+[2023-01-03 16:18:43] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.101.173:443: connect: network is unreachable 
+[2023-01-03 16:18:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:18:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.206.149.168:14000: connect: network is unreachable 
+[2023-01-03 16:18:44] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 111.206.149.168:14000: connect: network is unreachable 
+[2023-01-03 16:18:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：3/0 
+[2023-01-03 16:18:47] [WARNING]: 尝试重连... 
+[2023-01-03 16:18:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.210.174:443: connect: network is unreachable 
+[2023-01-03 16:18:47] [WARNING]: 快速重连失败: dial tcp error: dial tcp 36.155.210.174:443: connect: network is unreachable 
+[2023-01-03 16:18:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:18:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2023-01-03 16:18:48] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2023-01-03 16:18:48] [WARNING]: 将在 3 秒后尝试重连. 重连次数：4/0 
+[2023-01-03 16:18:51] [WARNING]: 尝试重连... 
+[2023-01-03 16:18:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-03 16:18:51] [WARNING]: 快速重连失败: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-03 16:18:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:18:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2023-01-03 16:18:52] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 43.154.240.7:8080: connect: network is unreachable 
+[2023-01-03 16:18:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：5/0 
+[2023-01-03 16:18:55] [WARNING]: 尝试重连... 
+[2023-01-03 16:18:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.107.214:443: connect: network is unreachable 
+[2023-01-03 16:18:55] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.107.214:443: connect: network is unreachable 
+[2023-01-03 16:18:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:18:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.28.172.112:14000: connect: network is unreachable 
+[2023-01-03 16:18:56] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 60.28.172.112:14000: connect: network is unreachable 
+[2023-01-03 16:18:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：6/0 
+[2023-01-03 16:18:59] [WARNING]: 尝试重连... 
+[2023-01-03 16:18:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 36.155.207.201:443: connect: network is unreachable 
+[2023-01-03 16:18:59] [WARNING]: 快速重连失败: dial tcp error: dial tcp 36.155.207.201:443: connect: network is unreachable 
+[2023-01-03 16:18:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2023-01-03 16:19:00] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 43.154.240.13:8080: connect: network is unreachable 
+[2023-01-03 16:19:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：7/0 
+[2023-01-03 16:19:03] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.206.99.118:14000: connect: network is unreachable 
+[2023-01-03 16:19:03] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.206.99.118:14000: connect: network is unreachable 
+[2023-01-03 16:19:03] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 175.27.203.192:8080: connect: network is unreachable 
+[2023-01-03 16:19:04] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 175.27.203.192:8080: connect: network is unreachable 
+[2023-01-03 16:19:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：8/0 
+[2023-01-03 16:19:07] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.95:443: connect: network is unreachable 
+[2023-01-03 16:19:07] [WARNING]: 快速重连失败: dial tcp error: dial tcp 180.102.191.95:443: connect: network is unreachable 
+[2023-01-03 16:19:07] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2023-01-03 16:19:08] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 49.51.95.236:10001: connect: network is unreachable 
+[2023-01-03 16:19:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：9/0 
+[2023-01-03 16:19:11] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-03 16:19:11] [WARNING]: 快速重连失败: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-03 16:19:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:12] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：10/0 
+[2023-01-03 16:19:15] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:15] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:16] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:16] [WARNING]: 将在 3 秒后尝试重连. 重连次数：11/0 
+[2023-01-03 16:19:19] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:19] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:20] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:20] [WARNING]: 将在 3 秒后尝试重连. 重连次数：12/0 
+[2023-01-03 16:19:23] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:23] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:23] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:24] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:24] [WARNING]: 将在 3 秒后尝试重连. 重连次数：13/0 
+[2023-01-03 16:19:27] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:27] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:27] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:28] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:28] [WARNING]: 将在 3 秒后尝试重连. 重连次数：14/0 
+[2023-01-03 16:19:31] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:31] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:31] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:32] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：15/0 
+[2023-01-03 16:19:35] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:35] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:35] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:36] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：16/0 
+[2023-01-03 16:19:39] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:39] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:39] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:40] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：17/0 
+[2023-01-03 16:19:43] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:43] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:44] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：18/0 
+[2023-01-03 16:19:47] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:47] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:48] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:48] [WARNING]: 将在 3 秒后尝试重连. 重连次数：19/0 
+[2023-01-03 16:19:51] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:52] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：20/0 
+[2023-01-03 16:19:55] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:55] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:19:56] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:19:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：21/0 
+[2023-01-03 16:19:59] [WARNING]: 尝试重连... 
+[2023-01-03 16:19:59] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:19:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:20:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:20:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：22/0 
+[2023-01-03 16:21:35] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:36] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:36] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:37] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:37] [WARNING]: 将在 3 秒后尝试重连. 重连次数：23/0 
+[2023-01-03 16:21:40] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:40] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:40] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:41] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:41] [WARNING]: 将在 3 秒后尝试重连. 重连次数：24/0 
+[2023-01-03 16:21:44] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:44] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:44] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:45] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:45] [WARNING]: 将在 3 秒后尝试重连. 重连次数：25/0 
+[2023-01-03 16:21:48] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:48] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:48] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:49] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:49] [WARNING]: 将在 3 秒后尝试重连. 重连次数：26/0 
+[2023-01-03 16:21:52] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:52] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:52] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:53] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：27/0 
+[2023-01-03 16:21:56] [WARNING]: 尝试重连... 
+[2023-01-03 16:21:56] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:21:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:21:57] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:21:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：28/0 
+[2023-01-03 16:22:00] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:00] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:01] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:01] [WARNING]: 将在 3 秒后尝试重连. 重连次数：29/0 
+[2023-01-03 16:22:04] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:04] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:04] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:05] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:05] [WARNING]: 将在 3 秒后尝试重连. 重连次数：30/0 
+[2023-01-03 16:22:08] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:08] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：31/0 
+[2023-01-03 16:22:12] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:12] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：32/0 
+[2023-01-03 16:22:16] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:16] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：33/0 
+[2023-01-03 16:22:20] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:20] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 16:22:21] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 16:22:21] [WARNING]: 将在 3 秒后尝试重连. 重连次数：34/0 
+[2023-01-03 16:22:24] [WARNING]: 尝试重连... 
+[2023-01-03 16:22:24] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 16:22:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:21:56] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:21:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：35/0 
+[2023-01-03 18:21:59] [WARNING]: 尝试重连... 
+[2023-01-03 18:21:59] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:21:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：36/0 
+[2023-01-03 18:22:03] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:03] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:03] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:04] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：37/0 
+[2023-01-03 18:22:07] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:07] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:07] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:08] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：38/0 
+[2023-01-03 18:22:11] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:11] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:12] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：39/0 
+[2023-01-03 18:22:15] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:15] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:16] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:16] [WARNING]: 将在 3 秒后尝试重连. 重连次数：40/0 
+[2023-01-03 18:22:19] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:19] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:20] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:20] [WARNING]: 将在 3 秒后尝试重连. 重连次数：41/0 
+[2023-01-03 18:22:23] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:23] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:23] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:24] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:24] [WARNING]: 将在 3 秒后尝试重连. 重连次数：42/0 
+[2023-01-03 18:22:27] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:27] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:27] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:28] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:28] [WARNING]: 将在 3 秒后尝试重连. 重连次数：43/0 
+[2023-01-03 18:22:31] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:31] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:31] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:32] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：44/0 
+[2023-01-03 18:22:35] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:35] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:35] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:36] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：45/0 
+[2023-01-03 18:22:39] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:39] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:39] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:40] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：46/0 
+[2023-01-03 18:22:43] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:43] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:44] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：47/0 
+[2023-01-03 18:22:47] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:47] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:48] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:48] [WARNING]: 将在 3 秒后尝试重连. 重连次数：48/0 
+[2023-01-03 18:22:51] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:52] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：49/0 
+[2023-01-03 18:22:55] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:55] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:22:56] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:22:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：50/0 
+[2023-01-03 18:22:59] [WARNING]: 尝试重连... 
+[2023-01-03 18:22:59] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:22:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：51/0 
+[2023-01-03 18:23:03] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:03] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:03] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:04] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：52/0 
+[2023-01-03 18:23:07] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:07] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:07] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:08] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：53/0 
+[2023-01-03 18:23:11] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:11] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:12] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：54/0 
+[2023-01-03 18:23:15] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:15] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:16] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:16] [WARNING]: 将在 3 秒后尝试重连. 重连次数：55/0 
+[2023-01-03 18:23:19] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:19] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:20] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:20] [WARNING]: 将在 3 秒后尝试重连. 重连次数：56/0 
+[2023-01-03 18:23:23] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:23] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:23] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:24] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:24] [WARNING]: 将在 3 秒后尝试重连. 重连次数：57/0 
+[2023-01-03 18:23:27] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:27] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:27] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:28] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:28] [WARNING]: 将在 3 秒后尝试重连. 重连次数：58/0 
+[2023-01-03 18:23:31] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:31] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:31] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:32] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：59/0 
+[2023-01-03 18:23:35] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:35] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:35] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:36] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：60/0 
+[2023-01-03 18:23:39] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:39] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:39] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:40] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：61/0 
+[2023-01-03 18:23:43] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:43] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:43] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:44] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:44] [WARNING]: 将在 3 秒后尝试重连. 重连次数：62/0 
+[2023-01-03 18:23:47] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:47] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:47] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:48] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:48] [WARNING]: 将在 3 秒后尝试重连. 重连次数：63/0 
+[2023-01-03 18:23:51] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:51] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:52] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:52] [WARNING]: 将在 3 秒后尝试重连. 重连次数：64/0 
+[2023-01-03 18:23:55] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:55] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:55] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:23:56] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:23:56] [WARNING]: 将在 3 秒后尝试重连. 重连次数：65/0 
+[2023-01-03 18:23:59] [WARNING]: 尝试重连... 
+[2023-01-03 18:23:59] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:23:59] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:24:00] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:24:00] [WARNING]: 将在 3 秒后尝试重连. 重连次数：66/0 
+[2023-01-03 18:24:03] [WARNING]: 尝试重连... 
+[2023-01-03 18:24:03] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:24:03] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:24:04] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:24:04] [WARNING]: 将在 3 秒后尝试重连. 重连次数：67/0 
+[2023-01-03 18:24:07] [WARNING]: 尝试重连... 
+[2023-01-03 18:24:07] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:24:07] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 18:24:08] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 18:24:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：68/0 
+[2023-01-03 18:24:11] [WARNING]: 尝试重连... 
+[2023-01-03 18:24:11] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 18:24:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 20:24:09] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 20:24:09] [WARNING]: 将在 3 秒后尝试重连. 重连次数：69/0 
+[2023-01-03 20:24:12] [WARNING]: 尝试重连... 
+[2023-01-03 20:24:12] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 20:24:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 20:24:13] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 20:24:13] [WARNING]: 将在 3 秒后尝试重连. 重连次数：70/0 
+[2023-01-03 20:24:16] [WARNING]: 尝试重连... 
+[2023-01-03 20:24:16] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 20:24:16] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 20:24:17] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 20:24:17] [WARNING]: 将在 3 秒后尝试重连. 重连次数：71/0 
+[2023-01-03 20:24:20] [WARNING]: 尝试重连... 
+[2023-01-03 20:24:20] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 20:24:20] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 21:52:08] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 21:52:08] [WARNING]: 将在 3 秒后尝试重连. 重连次数：72/0 
+[2023-01-03 21:52:11] [WARNING]: 尝试重连... 
+[2023-01-03 21:52:11] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 21:52:11] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 21:52:12] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 21:52:12] [WARNING]: 将在 3 秒后尝试重连. 重连次数：73/0 
+[2023-01-03 21:52:15] [WARNING]: 尝试重连... 
+[2023-01-03 21:52:15] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 21:52:15] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 21:52:16] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 21:52:16] [WARNING]: 将在 3 秒后尝试重连. 重连次数：74/0 
+[2023-01-03 21:52:19] [WARNING]: 尝试重连... 
+[2023-01-03 21:52:19] [WARNING]: 快速重连失败: All servers are unreachable 
+[2023-01-03 21:52:19] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-03 21:52:20] [ERROR]: 登录时发生致命错误: All servers are unreachable 
+[2023-01-03 21:52:20] [WARNING]: 将在 3 秒后尝试重连. 重连次数：75/0 
+[2023-01-03 21:52:23] [WARNING]: 尝试重连... 
+[2023-01-03 21:52:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-03 22:10:03] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-03 22:10:07] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:60184->127.0.0.1:8765: use of closed network connection 
+[2023-01-03 22:10:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:10:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:11:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:11:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:11:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:11:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-03 22:11:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 

@@ -1,0 +1,40 @@
+[2023-01-01 06:45:31] [WARNING]: 尝试重连... 
+[2023-01-01 06:45:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 117.185.255.62:443: connect: network is unreachable 
+[2023-01-01 06:45:31] [WARNING]: 快速重连失败: dial tcp error: dial tcp 117.185.255.62:443: connect: network is unreachable 
+[2023-01-01 06:45:31] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-01 06:45:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2023-01-01 06:45:32] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 49.51.91.9:10001: connect: network is unreachable 
+[2023-01-01 06:45:32] [WARNING]: 将在 3 秒后尝试重连. 重连次数：8/0 
+[2023-01-01 06:45:35] [WARNING]: 尝试重连... 
+[2023-01-01 06:45:35] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-01 06:45:35] [WARNING]: 快速重连失败: dial tcp error: dial tcp 107.155.14.171:10001: connect: network is unreachable 
+[2023-01-01 06:45:35] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-01 06:45:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 43.154.240.194:8080: connect: network is unreachable 
+[2023-01-01 06:45:36] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 43.154.240.194:8080: connect: network is unreachable 
+[2023-01-01 06:45:36] [WARNING]: 将在 3 秒后尝试重连. 重连次数：9/0 
+[2023-01-01 06:45:39] [WARNING]: 尝试重连... 
+[2023-01-01 06:45:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 183.47.117.200:443: connect: network is unreachable 
+[2023-01-01 06:45:39] [WARNING]: 快速重连失败: dial tcp error: dial tcp 183.47.117.200:443: connect: network is unreachable 
+[2023-01-01 06:45:39] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2023-01-01 06:45:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.206.99.120:14000: connect: network is unreachable 
+[2023-01-01 06:45:40] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 111.206.99.120:14000: connect: network is unreachable 
+[2023-01-01 06:45:40] [WARNING]: 将在 3 秒后尝试重连. 重连次数：10/0 
+[2023-01-01 06:45:43] [WARNING]: 尝试重连... 
+[2023-01-01 06:45:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-01 20:12:11] [ERROR]: Protocol -> get self guild profile error: send packet error: Packet timed out 
+[2023-01-01 20:12:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-01 20:12:31] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:61129->127.0.0.1:8765: use of closed network connection 
+[2023-01-01 20:12:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:12:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:13:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:13:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:13:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:13:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-01 20:13:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
