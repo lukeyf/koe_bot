@@ -4,7 +4,7 @@ import asyncio
 
 async def get_url() -> str:
     """
-    :return: 早报图片链接
+    :return: link of random anime picture
     """
     url="https://www.loliapi.com/acg/pc/?type=json"
     async with httpx.AsyncClient() as client:
