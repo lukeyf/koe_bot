@@ -1,0 +1,337 @@
+[2023-01-06 00:14:21] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-01-06 00:14:22] [WARNING]: 恢复会话失败: token failed , 尝试使用正常流程登录. 
+[2023-01-06 00:14:25] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-06 00:14:25] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-06 00:14:25] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-06 00:14:25] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-06 00:15:23] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-06 00:15:23] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-06 00:15:23] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-06 00:15:23] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-06 00:15:33] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=4iXMdAKu&style=simple&aid=16&uin=1732437804&sid=8805789097235306651&cap_cd=-RNfGOXu9BfwUI6JX1PmeeL6odsY0-OCmKy6fBz5zVTp9OyKzr2ivg**&clientype=1&apptype=2 
+[2023-01-06 00:16:09] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2023-01-06 00:16:27] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-06 00:16:27] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-06 00:16:27] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-06 00:16:27] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-06 00:16:45] [FATAL]: 扫码被用户取消. 
+[2023-01-06 00:16:59] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2023-01-06 00:16:59] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2023-01-06 00:16:59] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2023-01-06 00:16:59] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2023-01-06 00:17:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:17:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:18:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:19:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:20:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:21:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:22:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:23:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:24:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:25:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:25:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:25:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:25:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:25:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8765/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8765: connect: connection refused 
+[2023-01-06 00:26:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:26:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49344->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:27:14] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:27:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49371->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:27:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:27:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49379->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:29:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:29:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49392->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:33:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:33:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49406->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:34:38] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:34:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49453->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:40:50] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:40:53] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49470->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:41:03] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:41:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49531->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:41:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:41:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49540->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:53:16] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:53:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49550->127.0.0.1:8765: write: broken pipe 
+[2023-01-06 00:54:31] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:54:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49846->127.0.0.1:8765: write: broken pipe 
+[2023-01-06 00:54:41] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:54:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49929->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:57:23] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:57:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:49940->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:58:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:59:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50005->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 00:59:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 00:59:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50016->127.0.0.1:8765: write: broken pipe 
+[2023-01-06 01:00:10] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:00:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50033->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:05:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:05:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50038->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:05:36] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:05:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50091->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:06:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:06:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50096->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:06:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:06:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50102->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:07:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:07:46] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50108->127.0.0.1:8765: write: broken pipe 
+[2023-01-06 01:25:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:26:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50114->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:26:12] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:26:12] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-01-06 01:26:12] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:26:12] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-01-06 01:26:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:27:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50464->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:30:48] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:30:48] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:30:48] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:30:48] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:31:53] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:31:58] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50467->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:33:03] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:33:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50502->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:33:19] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:33:19] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:33:19] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:33:19] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:33:19] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:34:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:34:11] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50519->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:34:18] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:34:18] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:34:18] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:34:18] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:34:18] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:42:32] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:42:38] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50527->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:42:41] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:42:41] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:42:41] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:43:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:43:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50767->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:43:23] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:43:23] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:43:23] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:43:23] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": "nihao"}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "nihao": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:44:43] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:44:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50778->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:44:51] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:44:51] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:44:51] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:44:53] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:44:53] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:44:53] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:45:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:45:18] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50793->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:45:23] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:45:23] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:45:23] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:45:23] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:46:01] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:46:08] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50804->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:46:13] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:46:13] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:46:13] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:46:13] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": "user_id=1124301416 nickname='\u964c\u7136' sex='unknown' age=0 card='' area='' level='' role='owner' title='\u6e23\u6e23\u961f\u957f'"}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "user_id=1124301416 nickname='陌然' sex='unknown' age=0 card='' area='' level='' role='owner' title='渣渣队长'": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:46:13] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:47:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:47:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50812->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:47:18] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:47:18] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:47:18] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:47:18] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998438, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=216912524, message=[MessageSegment(type='text', data={'text': '\u6886'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' \u6886'})], raw_message='[CQ:at,qq=1732437804] \u6886', font=0, sender=Sender(user_id=1124301416, nickname='\u964c\u7136', sex='unknown', age=0, card='', area='', level='', role='owner', title='\u6e23\u6e23\u961f\u957f'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4590)>"}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998438, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=216912524, message=[MessageSegment(type='text', data={'text': '梆'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' 梆'})], raw_message='[CQ:at,qq=1732437804] 梆', font=0, sender=Sender(user_id=1124301416, nickname='陌然', sex='unknown', age=0, card='', area='', level='', role='owner', title='渣渣队长'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4590)>": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:47:18] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:47:40] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:47:43] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50843->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:47:47] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:47:47] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:47:47] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:47:47] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998467, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=-488393824, message=[MessageSegment(type='text', data={'text': '\u6886'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' \u6886'})], raw_message='[CQ:at,qq=1732437804] \u6886', font=0, sender=Sender(user_id=1124301416, nickname='\u964c\u7136', sex='unknown', age=0, card='', area='', level='', role='owner', title='\u6e23\u6e23\u961f\u957f'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4592)>"}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998467, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=-488393824, message=[MessageSegment(type='text', data={'text': '梆'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' 梆'})], raw_message='[CQ:at,qq=1732437804] 梆', font=0, sender=Sender(user_id=1124301416, nickname='陌然', sex='unknown', age=0, card='', area='', level='', role='owner', title='渣渣队长'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4592)>": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:47:47] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:48:18] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:48:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50862->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:48:27] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:48:27] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:48:27] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:48:27] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998507, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=192943765, message=[MessageSegment(type='text', data={'text': '\u6886'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' \u6886'})], raw_message='[CQ:at,qq=1732437804] \u6886', font=0, sender=Sender(user_id=1124301416, nickname='\u964c\u7136', sex='unknown', age=0, card='', area='', level='', role='owner', title='\u6e23\u6e23\u961f\u957f'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4594)>"}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "<bound method MessageEvent.get_user_id of GroupMessageEvent(time=1672998507, self_id=1732437804, post_type='message', sub_type='normal', user_id=1124301416, message_type='group', message_id=192943765, message=[MessageSegment(type='text', data={'text': '梆'})], original_message=[MessageSegment(type='at', data={'qq': '1732437804'}), MessageSegment(type='text', data={'text': ' 梆'})], raw_message='[CQ:at,qq=1732437804] 梆', font=0, sender=Sender(user_id=1124301416, nickname='陌然', sex='unknown', age=0, card='', area='', level='', role='owner', title='渣渣队长'), to_me=True, reply=None, group_id=446350840, anonymous=None, message_seq=4594)>": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:48:27] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:48:57] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:49:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50871->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:49:08] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:49:08] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:49:08] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:50:10] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:50:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50879->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:51:55] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:52:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50890->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:56:42] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:56:48] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50904->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:56:52] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:56:52] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:56:52] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:56:52] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:57:09] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:57:13] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50964->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:57:31] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:57:31] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:57:31] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:57:31] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/banged.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:57:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:58:03] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50973->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:58:08] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:58:08] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "/Users/luke/Desktop/Interests/koe_bot/koe/src/plugins/simple_replies/resources/bang.jpg", "type": null, "cache": "true", "proxy": "true", "timeout": null}}) 到MiraiGo Element时出现错误: invalid image 将忽略本段CQ码. 
+[2023-01-06 01:58:08] [WARNING]: 群消息发送失败: 消息为空. 
+[2023-01-06 01:58:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:58:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50979->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:59:00] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:59:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 01:59:33] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:50995->127.0.0.1:8765: use of closed network connection 
+[2023-01-06 01:59:36] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:59:42] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 01:59:48] [WARNING]: 转换CQ码 ({"type": "at", "data": {"qq": ""}}) 到MiraiGo Element时出现错误: strconv.ParseInt: parsing "": invalid syntax 将忽略本段CQ码. 
+[2023-01-06 02:00:12] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-01-06 02:00:17] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:51001->127.0.0.1:8765: use of closed network connection 

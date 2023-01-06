@@ -550,3 +550,13 @@
 01:10:46.532454 table@remove removed @124
 01:10:46.533921 table@remove removed @123
 01:10:46.536477 table@remove removed @121
+=============== Jan 6, 2023 (PST) ===============
+02:06:00.696777 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:06:00.705185 version@stat F·[0 1] S·825KiB[0B 825KiB] Sc·[0.00 0.01]
+02:06:00.705244 db@open opening
+02:06:00.705372 journal@recovery F·1
+02:06:00.705422 journal@recovery recovering @148
+02:06:00.828096 memdb@flush created L0@151 N·156 S·16KiB "\x00I'5,v5910":"\xfe\xea;s,v5895"
+02:06:00.828735 version@stat F·[1 1] S·841KiB[16KiB 825KiB] Sc·[0.25 0.01]
+02:06:00.933919 db@janitor F·4 G·0
+02:06:00.933999 db@open done T·228.622112ms
