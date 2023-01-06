@@ -1,7 +1,6 @@
 import httpx
 from nonebot import logger
 import asyncio
-
 async def get_url() -> str:
     """
     :return: link of random anime picture

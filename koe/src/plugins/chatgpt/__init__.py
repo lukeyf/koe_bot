@@ -4,6 +4,8 @@ from nonebot.adapters.onebot.v11 import Message, MessageEvent
 from nonebot.params import CommandArg
 from nonebot.log import logger
 from revChatGPT.revChatGPT import Chatbot
+from .config import token
+
 from nonebot import require
 import time
 import asyncio
@@ -13,11 +15,11 @@ global_config = get_driver().config
 
 print(global_config.session_token)
 
-chatGPT = on_command("。", aliases={"."}, priority=10, block=True)
+chatGPT = on_command("cgpt", aliases={"CGPT"}, priority=98, block=True)
 
 config = {
         "Authorization": "<Your Bearer Token Here>", # This is optional
-        "session_token": global_config.session_token
+        "session_token": token
 }
 
 user_session = dict()
