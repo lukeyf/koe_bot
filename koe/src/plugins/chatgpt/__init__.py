@@ -3,7 +3,7 @@ from nonebot import on_command
 from nonebot.adapters.onebot.v11 import Message, MessageEvent
 from nonebot.params import CommandArg
 from nonebot.log import logger
-from ChatGPT_lite.ChatGPT import Chatbot
+from revChatGPT.ChatGPT import Chatbot
 from .config import token
 
 from nonebot import require
