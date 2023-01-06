@@ -11,7 +11,7 @@ async def _(bot:Bot,event:MessageEvent):
     if random.random()>0.2:
         img_url=(await askjson.get_url())
         if img_url:
-            await se_pic.send(message=MessageSegment.image(img_url["imgurl"]))
+            await se_pic.send(message=MessageSegment.image(img_url))
         else:
             logger.info('获取时出现错误')
     else:
